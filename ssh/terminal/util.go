@@ -14,7 +14,7 @@
 // 	        panic(err)
 // 	}
 // 	defer terminal.Restore(0, oldState)
-package terminal // import "golang.org/x/crypto/ssh/terminal"
+package terminal // import "github.com/golangpkgs/crypto/ssh/terminal"
 
 import (
 	"io"
